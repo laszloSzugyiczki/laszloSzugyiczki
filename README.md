@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @laszloSzugyiczki
+- 👋 Hi, I’m László Szugyiczki
 - 👀 I’m interested in web developement, programming.
 - 🌱 I’m currently learning Vue.js.
 - ⚡ Fun fact: You travel 2.5 million km a day around the Sun without realising.
